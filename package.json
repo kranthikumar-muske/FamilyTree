@@ -1,8 +1,8 @@
 {
-  "name": "MyPortfolio",
+  "name": "familytree",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kranthikumar-muske.github.io/MyPortfolio",
+  "homepage": "https://kranthikumar-muske.github.io/familytree",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
